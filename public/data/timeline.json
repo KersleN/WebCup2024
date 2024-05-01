@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "title": "AI Dream Prediction Service Launch",
+            "company": "DreamWorks Inc.",
+            "tasks": "Developed and launched an AI-powered dream prediction service, leveraging cutting-edge technologies to analyze dream patterns and provide personalized insights.",
+            "tags": ["Personalized Insights", "Dream Analysis", "AI Technology", "Predictive Service"],
+            "year": "2024"
+        },
+        {
+            "title": "Machine Learning Research and Development",
+            "company": "DreamWorks Inc.",
+            "tasks": "Conducted research and development in machine learning algorithms for dream analysis, laying the foundation for the AI dream prediction service.",
+            "tags": ["Innovative Research", "Machine Learning", "Dream Analysis"],
+            "year": "2023"
+        },
+        {
+            "title": "AI Dream Analysis Prototype",
+            "company": "DreamWorks Inc.",
+            "tasks": "Developed a prototype for AI-powered dream analysis, showcasing the potential for personalized dream insights.",
+            "tags": ["Prototype Showcase", "Personalized Insights", "AI Technology"],
+            "year": "2022"
+        }
+    ]
+}

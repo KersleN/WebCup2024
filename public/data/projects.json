@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "title": "Enhanced Self-Awareness",
+            "image": "https://images.unsplash.com/photo-1642783770696-5ce1b9e24263?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "link": "",
+            "tags": ["Subconscious exploration", "Emotional insights", "Motivation discovery"],
+            "text": "Gain deeper insights into your subconscious mind through dream analysis. Uncover hidden thoughts, emotions, and motivations influencing your waking life."
+          },
+          {
+            "title": "Improved Problem-Solving Skills",
+            "image": "https://images.unsplash.com/photo-1494059980473-813e73ee784b?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "link": "",
+            "tags": ["Symbolic interpretation", "Creative solutions", "Challenge resolution"],
+            "text": "Dreams can offer cryptic clues to real-world challenges. Our AI helps you decipher the symbolism and unlock creative solutions to problems you may be facing."
+          },
+          {
+            "title": "Fostered Creativity and Innovation",
+            "image": "https://images.unsplash.com/photo-1560421683-6856ea585c78?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "link": "",
+            "tags": ["Imagination exploration", "Idea generation", "Innovation spark"],
+            "text": "Dreams tap into the boundless wellspring of your imagination. Analyze your dreams to spark new ideas, enhance your creative process, and fuel innovation."
+          }
+    ]
+}
